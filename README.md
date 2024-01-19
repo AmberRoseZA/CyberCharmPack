@@ -1,2 +1,2 @@
 # CyberCharm
-CyberCharm Modpack
+Welcome to the official homepage of the CyberCharm Network's Modpack
